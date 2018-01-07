@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-so/values-so.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-so/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 2,
+                        "startOffset": 517,
+                        "endColumn": 52,
+                        "endOffset": 567
+                    }
+                }
+            }
+        ]
+    }
+]

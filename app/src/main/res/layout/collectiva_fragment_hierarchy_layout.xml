@@ -1,0 +1,110 @@
+<!-- Copyright (C) 2009 University of Washington
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not
+use this file except in compliance with the License. You may obtain a copy of
+the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations under
+the License.
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+    <LinearLayout
+        android:id="@+id/ln1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="6dp"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <ImageView
+            android:id="@+id/back_arrow"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="6dp"
+            android:paddingBottom="6dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:tint="@color/colorPrimary"
+            android:foreground="?attr/selectableItemBackgroundBorderless"
+            android:src="@drawable/ic_back"/>
+        <LinearLayout
+            android:id="@+id/search_question_holder1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:padding="5dp"
+            android:background="@drawable/cl_round_bg_smoothgrey">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_search"
+                android:tint="@color/colorPrimary"
+                android:layout_marginLeft="4dp"/>
+            <EditText
+                android:id="@+id/search_box"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:inputType="text"
+                android:textColorHint="@color/darker_gray"
+                android:background="@drawable/cl_round_bg_smoothgrey"/>
+            <ImageView
+                android:id="@+id/search_close_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_close"
+                android:tint="@color/darker_gray"
+                android:layout_marginLeft="4dp"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/pathtext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ln1"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:background="@color/roster_color"/>
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/pathtext"
+        android:layout_above="@+id/jump_to_end"/>
+    <TextView
+        android:id="@+id/jump_to_end"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:text="Jump To End"
+        android:background="@drawable/cl_round_bg_smoothgrey"
+        android:clickable="true"
+        android:padding="8dp"
+        android:foreground="?attr/selectableItemBackgroundBorderless"
+        android:textSize="18sp"
+        android:textAlignment="center"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="12dp"/>
+
+    <!--<TextView-->
+        <!--android:id="@android:id/empty"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:gravity="center"-->
+        <!--android:padding="20dp"-->
+        <!--android:text="@string/no_items_display"-->
+        <!--android:textSize="21sp" />-->
+</RelativeLayout>

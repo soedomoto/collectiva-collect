@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/slidingmenu/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/slidingmenu/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/slidingmenu/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/slidingmenu/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/slidingmenu/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/slidingmenu/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/slidingmenu/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/slidingmenu/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/slidingmenu/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/slidingmenu/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    }
+]

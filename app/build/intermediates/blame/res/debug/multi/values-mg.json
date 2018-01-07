@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mg/values-mg.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-mg/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 102,
+                        "endColumn": 49,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 60,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-mg/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 153,
+                        "endColumn": 58,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endColumn": 46,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-mg/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 2,
+                        "startOffset": 628,
+                        "endColumn": 52,
+                        "endOffset": 678
+                    }
+                }
+            }
+        ]
+    }
+]

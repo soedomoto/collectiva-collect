@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/slidingmenu/build/intermediates/res/merged/androidTest/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/slidingmenu/build/intermediates/res/merged/androidTest/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/slidingmenu/build/intermediates/res/merged/androidTest/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/slidingmenu/build/intermediates/res/merged/androidTest/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/slidingmenu/build/intermediates/res/merged/androidTest/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/slidingmenu/build/intermediates/res/merged/androidTest/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/slidingmenu/build/intermediates/res/merged/androidTest/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/slidingmenu/build/intermediates/res/merged/androidTest/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/slidingmenu/build/intermediates/res/merged/androidTest/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/slidingmenu/build/intermediates/res/merged/androidTest/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/color-v23/abc_tint_spinner.xml"
+    }
+]

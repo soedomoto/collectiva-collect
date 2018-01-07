@@ -1,0 +1,4 @@
+#Mon Jan 08 05:43:58 WIB 2018
+base.0=/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

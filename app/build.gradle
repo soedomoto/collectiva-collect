@@ -1,0 +1,216 @@
+apply plugin: 'com.android.application'
+apply plugin: 'checkstyle'
+
+import com.android.ddmlib.DdmPreferences
+
+DdmPreferences.setTimeOut(60000)
+
+ant.condition(property: 'os', value: 'windows') {
+    os(family: 'windows') 
+}
+ant.condition(property: 'os', value: 'unix') { 
+    os(family: 'unix') 
+}
+
+// Build numbers were manually set until 1067
+def LEGACY_BUILD_NUMBER_OFFSET = 1067
+
+// Based on http://stackoverflow.com/questions/17097263#24121734
+def getMasterCommitCount = { ->
+    try {
+        def stdout = new ByteArrayOutputStream()
+        exec {
+            switch (ant.properties.os) {
+                case 'windows':
+                    commandLine 'cmd', '/c', 'git', 'rev-list', '--first-parent', '--count', 'master'
+                    break
+                case 'unix':
+                    commandLine 'git', 'rev-list', '--first-parent', '--count', 'master'
+                    break
+            }
+            standardOutput = stdout
+        }
+        return Integer.parseInt(stdout.toString().trim())
+    } catch (ignored) {
+        return -1;
+    }
+}
+
+def getVersionName = { ->
+    try {
+        def stdout = new ByteArrayOutputStream()
+        exec {
+            switch (ant.properties.os) {
+                case 'windows':
+                    commandLine 'cmd', '/c', 'git', 'describe', '--tags', '--dirty', '--always'
+                    break
+                case 'unix':
+                    commandLine 'git', 'describe', '--tags', '--dirty', '--always'
+                    break
+            }
+            standardOutput = stdout
+        }
+        return stdout.toString().trim()
+    } catch (ignored) {
+        return null;
+    }
+}
+
+android {
+    compileSdkVersion(25)
+    buildToolsVersion('25.0.2')
+
+//    compileSdkVersion(23)
+//    buildToolsVersion('26.0.1')
+
+    defaultConfig {
+        applicationId('org.odk.collect.android')
+        minSdkVersion(16)
+        targetSdkVersion(25)
+//        targetSdkVersion(23)
+        versionCode LEGACY_BUILD_NUMBER_OFFSET + getMasterCommitCount()
+        versionName getVersionName()
+        testInstrumentationRunner('android.support.test.runner.AndroidJUnitRunner')
+        multiDexEnabled true
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled(true)
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+        debug {
+            debuggable(true)
+            // Allows AndroidTest JaCoCo reports to be generated
+            testCoverageEnabled(true)
+        }
+    }
+
+    packagingOptions {
+        // Pick first occurrence of any files that cause conflicts, as defined
+        // in common.gradle
+        pickFirst 'META-INF/DEPENDENCIES'
+        pickFirst 'META-INF/LICENSE'
+        pickFirst 'META-INF/LICENSE.txt'
+        pickFirst 'META-INF/NOTICE'
+        pickFirst 'META-INF/NOTICE.txt'
+        pickFirst 'META-INF/services/com.fasterxml.jackson.core.JsonFactory'
+        pickFirst 'META-INF/services/com.fasterxml.jackson.core.ObjectCodec'
+        pickFirst 'META-INF/services/javax.ws.rs.ext.MessageBodyReader'
+        pickFirst 'META-INF/services/javax.ws.rs.ext.MessageBodyWriter'
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+
+    dexOptions {
+        javaMaxHeapSize '2048M'
+    }
+
+    lintOptions {
+        abortOnError true
+    }
+}
+
+// Required to use fileExtensions property in checkstyle file
+checkstyle.toolVersion = '7.6.1' 
+
+// The normal check task reports nothing probably because Android uses its own sourceSets
+task checkstyle(type: Checkstyle) {
+    source 'src'
+    // empty classpath because we don't want to check compiled classes
+    classpath = files()
+}
+
+configurations.all {
+    resolutionStrategy {
+        cacheDynamicVersionsFor(0, 'seconds')
+        cacheChangingModulesFor(0, 'seconds')
+    }
+    transitive = true
+}
+
+allprojects {
+    tasks.withType(JavaCompile) {
+        options.compilerArgs << '-Xlint:all'
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: '*.jar')
+    compile group: 'com.android.support', name: 'multidex', version: '1.0.1'
+    compile group: 'com.google.android.gms', name: 'play-services-analytics', version: '10.0.1'
+    compile group: 'com.google.android.gms', name: 'play-services-auth', version: '10.0.1'
+    compile group: 'com.google.android.gms', name: 'play-services-maps', version: '10.0.1'
+    compile (group: 'com.google.code.gson', name: 'gson', version: '2.6.2' ){
+        exclude group: 'org.apache.httpcomponents'
+    }
+    compile group: 'com.google.firebase', name: 'firebase-core', version: '10.0.1'
+    compile group: 'com.google.firebase', name: 'firebase-crash', version: '10.0.1'
+    compile(group: 'com.google.http-client', name: 'google-http-client', version: '1.22.0') {
+        exclude group: 'org.apache.httpcomponents'
+    }
+    compile(group: 'com.google.oauth-client', name: 'google-oauth-client', version: '1.22.0') {
+        exclude group: 'org.apache.httpcomponents'
+    }
+
+    compile group: 'commons-io', name: 'commons-io', version: '2.4'
+    compile group: 'joda-time', name: 'joda-time', version: '2.9.7'
+    compile group: 'net.sf.kxml', name: 'kxml2', version: '2.3.0'
+    compile group: 'net.sf.opencsv', name: 'opencsv', version: '2.3'
+    compile group: 'org.opendatakit', name: 'opendatakit-javarosa', version: '2.1.0'
+    compile group: 'org.osmdroid', name: 'osmdroid-android', version: '5.6.4'
+    compile group: 'org.slf4j', name: 'slf4j-android', version: '1.6.1-RC1'
+    compile group: 'pub.devrel', name: 'easypermissions', version: '0.2.1'
+    compile(group: 'com.google.api-client', name: 'google-api-client-android', version: '1.22.0') {
+        exclude group: 'org.apache.httpcomponents'
+    }
+    compile(group: 'com.google.apis', name: 'google-api-services-drive', version: 'v3-rev64-1.22.0') {
+        exclude group: 'org.apache.httpcomponents'
+    }
+    compile(group: 'com.google.apis', name: 'google-api-services-sheets', version: 'v4-rev463-1.22.0') {
+        exclude group: 'org.apache.httpcomponents'
+    }
+    compile group: 'com.jakewharton.timber', name: 'timber', version: '4.5.1'
+    compile group: 'com.android.support', name: 'customtabs', version: '25.3.1'
+//    compile group: 'com.android.support', name: 'customtabs', version: '23.0.0'
+
+    // Testing-only dependencies
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    testCompile group: 'org.mockito', name: 'mockito-core', version: '1.10.19'
+    testCompile group: 'org.robolectric', name: 'robolectric', version: '3.1.2'
+    testCompile group: 'org.robolectric', name: 'shadows-multidex', version: '3.0'
+    androidTestCompile group: 'com.android.support', name: 'support-annotations', version: '25.3.1'
+//    androidTestCompile group: 'com.android.support', name: 'support-annotations', version: '23.0.0'
+    androidTestCompile group: 'com.android.support.test', name: 'runner', version: '0.5'
+    androidTestCompile group: 'com.android.support.test', name: 'rules', version: '0.5'
+    androidTestCompile group: 'com.squareup.okhttp3', name: 'mockwebserver', version: '3.2.0'
+
+    compile('com.mikepenz:materialdrawer:5.9.1@aar') {
+        transitive = true
+    }
+    compile project(':slidingmenu')
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support:support-v13:25.3.1'
+    compile 'com.android.support:design:25.3.1'
+    compile 'com.android.support:support-v4:25.3.1'
+    compile 'com.android.support:cardview-v7:25.3.1'
+    compile 'com.android.support:recyclerview-v7:25.3.1'
+//    compile 'com.android.support:appcompat-v7:23.0.0'
+//    compile 'com.android.support:support-v13:23.0.0'
+//    compile 'com.android.support:design:23.0.0'
+//    compile 'com.android.support:support-v4:23.0.0'
+//    compile 'com.android.support:cardview-v7:23.0.0'
+//    compile 'com.android.support:recyclerview-v7:23.0.0'
+    
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+
+    compile 'com.android.volley:volley:1.0.0'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+}
+
+// Must be at bottom to prevent dependency collisions
+// https://developers.google.com/android/guides/google-services-plugin
+apply plugin: 'com.google.gms.google-services'

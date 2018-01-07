@@ -1,0 +1,789 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:10:1-315:12
+	package
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:12:5-38
+		INJECTED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml
+		INJECTED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml
+		INJECTED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:11:5-51
+	xmlns:android
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:10:11-69
+	android:versionCode
+		INJECTED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml
+		INJECTED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.location
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:15:9-49
+uses-feature#android.hardware.location.network
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:17:5-19:36
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] /home/soedomoto/.android/build-cache/b2705ada5e083df8ecc6c4ed7aae03ee182a959e/output/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:18:9-57
+uses-feature#android.hardware.location.gps
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:20:5-22:36
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] /home/soedomoto/.android/build-cache/b2705ada5e083df8ecc6c4ed7aae03ee182a959e/output/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:21:9-53
+uses-feature#android.hardware.telephony
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:23:5-25:36
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] /home/soedomoto/.android/build-cache/b2705ada5e083df8ecc6c4ed7aae03ee182a959e/output/AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:24:9-50
+uses-feature#android.hardware.wifi
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:26:5-28:36
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] /home/soedomoto/.android/build-cache/b2705ada5e083df8ecc6c4ed7aae03ee182a959e/output/AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:27:9-45
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:30:5-75
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:30:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:31:5-76
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] /home/soedomoto/.android/build-cache/b2705ada5e083df8ecc6c4ed7aae03ee182a959e/output/AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:31:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:32:5-67
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /home/soedomoto/.android/build-cache/469091c8a4aee07226e0b50c3be94c37cc46cda4/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/soedomoto/.android/build-cache/8e62b056414a3286494d493c54e4664b73faedba/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/soedomoto/.android/build-cache/21dc29b81bfb73d2d47e119e3ed831582561fdc3/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /home/soedomoto/.android/build-cache/c653fc1b96150548cdf638fe871381ed00019005/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/soedomoto/.android/build-cache/93c728e681b5416fddad5de39d70c79e19ea041f/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/soedomoto/.android/build-cache/01033c7b37993a95d4cec76e54e5700aea50f7cc/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:20:5-66
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] /home/soedomoto/.android/build-cache/b2705ada5e083df8ecc6c4ed7aae03ee182a959e/output/AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:32:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:33:5-79
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] /home/soedomoto/.android/build-cache/b2705ada5e083df8ecc6c4ed7aae03ee182a959e/output/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:33:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:34:5-81
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] /home/soedomoto/.android/build-cache/b2705ada5e083df8ecc6c4ed7aae03ee182a959e/output/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:34:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:35:5-80
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] /home/soedomoto/.android/build-cache/b2705ada5e083df8ecc6c4ed7aae03ee182a959e/output/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:35:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:36:5-81
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] /home/soedomoto/.android/build-cache/b2705ada5e083df8ecc6c4ed7aae03ee182a959e/output/AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:36:22-78
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:37:5-71
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:37:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:38:5-74
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:38:22-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:39:5-79
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /home/soedomoto/.android/build-cache/469091c8a4aee07226e0b50c3be94c37cc46cda4/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/soedomoto/.android/build-cache/8e62b056414a3286494d493c54e4664b73faedba/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/soedomoto/.android/build-cache/21dc29b81bfb73d2d47e119e3ed831582561fdc3/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/soedomoto/.android/build-cache/93c728e681b5416fddad5de39d70c79e19ea041f/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/soedomoto/.android/build-cache/01033c7b37993a95d4cec76e54e5700aea50f7cc/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:19:5-78
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] /home/soedomoto/.android/build-cache/b2705ada5e083df8ecc6c4ed7aae03ee182a959e/output/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:39:22-76
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:40:5-74
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:40:22-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:42:5-68
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /home/soedomoto/.android/build-cache/469091c8a4aee07226e0b50c3be94c37cc46cda4/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/soedomoto/.android/build-cache/8e62b056414a3286494d493c54e4664b73faedba/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/soedomoto/.android/build-cache/93c728e681b5416fddad5de39d70c79e19ea041f/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/soedomoto/.android/build-cache/01033c7b37993a95d4cec76e54e5700aea50f7cc/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:42:22-65
+uses-feature#0x00020000
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:44:5-46:35
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/soedomoto/.android/build-cache/21dc29b81bfb73d2d47e119e3ed831582561fdc3/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:45:9-41
+	android:required
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:46:9-32
+permission#org.odk.collect.android.permission.MAPS_RECEIVE
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:55:5-57:47
+	android:protectionLevel
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:57:9-44
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:56:9-71
+uses-permission#org.odk.collect.android.permission.MAPS_RECEIVE
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:59:5-87
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:59:22-84
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:60:5-98
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:60:22-95
+supports-screens
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:62:5-68:40
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] /home/soedomoto/.android/build-cache/b2705ada5e083df8ecc6c4ed7aae03ee182a959e/output/AndroidManifest.xml:11:5-14:40
+	android:largeScreens
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:64:9-36
+	android:smallScreens
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:67:9-36
+	android:normalScreens
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:65:9-37
+	android:xlargeScreens
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:68:9-37
+	android:resizeable
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:66:9-34
+	android:anyDensity
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:63:9-34
+application
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:70:5-313:19
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /home/soedomoto/.android/build-cache/469091c8a4aee07226e0b50c3be94c37cc46cda4/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] /home/soedomoto/.android/build-cache/fde7499ad3ca9389d27d3c7aa8e6830545ebac95/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/soedomoto/.android/build-cache/8e62b056414a3286494d493c54e4664b73faedba/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] /home/soedomoto/.android/build-cache/5599ea59ce82bce5d11ace6b01c751538cbed0fb/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/soedomoto/.android/build-cache/21dc29b81bfb73d2d47e119e3ed831582561fdc3/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/soedomoto/.android/build-cache/d604e3d6deb4ecfef08cd63e1d1449c73024adb9/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:10.0.1] /home/soedomoto/.android/build-cache/280dbe2a6d104086ce5b7e666a7814ecf7771dd8/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /home/soedomoto/.android/build-cache/c653fc1b96150548cdf638fe871381ed00019005/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/soedomoto/.android/build-cache/93c728e681b5416fddad5de39d70c79e19ea041f/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/soedomoto/.android/build-cache/01033c7b37993a95d4cec76e54e5700aea50f7cc/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/soedomoto/.android/build-cache/82ff39d0bc6e2b04893ffae31fa3ee0560a2d2bf/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/soedomoto/.android/build-cache/d6ea3ca061aa1c1e4dfbe87c192cde11d3ed71de/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/soedomoto/.android/build-cache/455282c2b1635c4d5869a45ee198c902b1851b6c/output/AndroidManifest.xml:19:5-21:19
+MERGED from [pub.devrel:easypermissions:0.2.1] /home/soedomoto/.android/build-cache/0cb6a3ac452a892f3ff9d06b449de59c8c2c8767/output/AndroidManifest.xml:12:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/soedomoto/.android/build-cache/bcdefa36041f78b986ff8c7dc36f74572d65ff59/output/AndroidManifest.xml:8:5-20
+MERGED from [com.android.support:customtabs:25.3.1] /home/soedomoto/.android/build-cache/acfa381b0e95a6960a212317bd20f6e9881645d8/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v13:25.3.1] /home/soedomoto/.android/build-cache/89f0f9d4a2014fdc7747818a02a1a8daf2e0cfc3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /home/soedomoto/.android/build-cache/55b65cf4fb0bc6be85eeb8eb0585f8db62e9b05c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/soedomoto/.android/build-cache/fcba167a53f1a858ff6307e526402142e1f350ea/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/soedomoto/.android/build-cache/22081f42b247fadbeed1da463bf5c1df87b1f818/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/soedomoto/.android/build-cache/d18b769f0686a1ef577a692822cf5b5afe8d8dd7/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/soedomoto/.android/build-cache/dac698495c2960d158623b85d6875e3fa8f79fce/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/soedomoto/.android/build-cache/cf4e082de360efd9eb7632db450fda68462d2af5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/soedomoto/.android/build-cache/fec1bf1c1b758565bd8d581c653ca70c814a6a03/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/soedomoto/.android/build-cache/4801e7b1513013b5f6a4fc5de31b870cdf39a365/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/soedomoto/.android/build-cache/c8dfb1d7ef864b0b2f586dc6689f12ea8174218b/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/soedomoto/.android/build-cache/d149645246e60319d7bc61b878aa0cfb40d85857/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/soedomoto/.android/build-cache/e548babba51b46d23ed56070b202dc8e50025d89/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/soedomoto/.android/build-cache/727cc3e555251156db2d2840e3da2983c06cb7a7/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /home/soedomoto/.android/build-cache/4be4e0404e3bed137a8a4bb79fa15b51031d8cff/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:74:9-41
+	android:supportsRtl
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:76:9-35
+	android:icon
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:72:9-43
+	android:installLocation
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:73:9-39
+	android:largeHeap
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:75:9-33
+	android:theme
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:77:9-52
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:71:9-44
+provider#org.odk.collect.android.provider.FormsProvider
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:78:9-81:39
+	android:authorities
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:80:13-77
+	android:exported
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:81:13-36
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:79:13-51
+provider#org.odk.collect.android.provider.InstanceProvider
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:82:9-85:39
+	android:authorities
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:84:13-81
+	android:exported
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:85:13-36
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:83:13-54
+activity#org.odk.collect.android.activities.MainMenuActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:87:9-90:48
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:90:13-45
+	android:configChanges
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:89:13-66
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:88:13-56
+activity#org.odk.collect.android.activities.FormEntryActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:91:9-106:20
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:94:13-45
+	android:windowSoftInputMode
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:96:13-55
+	android:configChanges
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:93:13-74
+	android:theme
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:95:13-56
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:92:13-57
+intent-filter#android.intent.action.EDIT+android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:97:13-105:29
+action#android.intent.action.VIEW
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:98:17-69
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:98:25-66
+action#android.intent.action.EDIT
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:99:17-69
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:99:25-66
+category#android.intent.category.DEFAULT
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:101:17-76
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:101:27-73
+data
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:103:17-81
+	android:mimeType
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:103:23-78
+activity#org.odk.collect.android.activities.NotificationActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:107:9-112:39
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:110:13-45
+	android:excludeFromRecents
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:109:13-46
+	android:launchMode
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:111:13-44
+	android:taskAffinity
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:112:13-36
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:108:13-60
+activity#org.odk.collect.android.activities.DrawActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:113:9-115:48
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:115:13-45
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:114:13-52
+activity#org.odk.collect.android.activities.OpenSourceLicensesActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:116:9-118:64
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:118:13-61
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:117:13-66
+activity#org.odk.collect.android.activities.GoogleDriveActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:119:9-123:57
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:122:13-45
+	android:windowSoftInputMode
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:123:13-54
+	android:configChanges
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:121:13-59
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:120:13-59
+activity#org.odk.collect.android.activities.InstanceChooserList
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:124:9-127:61
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:126:13-45
+	android:theme
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:127:13-58
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:125:13-59
+activity#org.odk.collect.android.activities.FormChooserList
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:138:9-151:20
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:140:13-45
+	android:theme
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:141:13-58
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:139:13-55
+intent-filter#android.intent.action.EDIT+android.intent.action.PICK+android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:142:13-150:29
+action#android.intent.action.PICK
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:145:17-69
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:145:25-66
+activity#org.odk.collect.android.activities.FormDownloadList
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:152:9-155:61
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:154:13-45
+	android:theme
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:155:13-58
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:153:13-56
+activity#org.odk.collect.android.activities.FileManagerTabs
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:156:9-159:48
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:159:13-45
+	android:configChanges
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:158:13-59
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:157:13-55
+activity#org.odk.collect.android.activities.GoogleSheetsUploaderActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:160:9-163:48
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:163:13-45
+	android:configChanges
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:162:13-59
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:161:13-68
+activity#org.odk.collect.android.activities.InstanceUploaderList
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:164:9-175:20
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:167:13-45
+	android:configChanges
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:166:13-59
+	android:theme
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:168:13-58
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:165:13-60
+activity#org.odk.collect.android.activities.InstanceUploaderActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:176:9-178:48
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:178:13-45
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:177:13-64
+activity#org.odk.collect.android.preferences.AboutPreferencesActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:179:9-182:48
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:182:13-45
+	android:theme
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:181:13-64
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:180:13-65
+activity#org.odk.collect.android.preferences.PreferencesActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:183:9-186:48
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:186:13-45
+	android:theme
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:185:13-64
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:184:13-60
+activity#org.odk.collect.android.preferences.GooglePreferencesActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:187:9-190:48
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:190:13-45
+	android:theme
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:189:13-64
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:188:13-66
+activity#org.odk.collect.android.preferences.OtherPreferencesActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:191:9-194:48
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:194:13-45
+	android:theme
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:193:13-64
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:192:13-65
+activity#org.odk.collect.android.preferences.AggregatePreferencesActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:195:9-198:48
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:198:13-45
+	android:theme
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:197:13-64
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:196:13-69
+activity#org.odk.collect.android.preferences.FormMetadataActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:199:9-201:59
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:201:13-56
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:200:13-61
+activity#org.odk.collect.android.preferences.AdminPreferencesActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:202:9-205:48
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:205:13-45
+	android:theme
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:204:13-64
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:203:13-65
+activity#org.odk.collect.android.activities.FormHierarchyActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:206:9-208:48
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:208:13-45
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:207:13-61
+activity#org.odk.collect.android.activities.GeoPointActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:209:9-211:48
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:211:13-45
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:210:13-56
+activity#org.odk.collect.android.activities.GeoPointMapActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:212:9-215:48
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:215:13-45
+	android:configChanges
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:214:13-48
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:213:13-59
+activity#org.odk.collect.android.activities.GeoPointOsmMapActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:219:9-222:48
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:222:13-45
+	android:configChanges
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:221:13-48
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:220:13-62
+activity#org.odk.collect.android.activities.GeoShapeOsmMapActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:223:9-226:48
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:226:13-45
+	android:configChanges
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:225:13-48
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:224:13-62
+activity#org.odk.collect.android.activities.GeoShapeGoogleMapActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:227:9-230:48
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:230:13-45
+	android:configChanges
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:229:13-48
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:228:13-65
+activity#org.odk.collect.android.activities.GeoTraceOsmMapActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:231:9-234:48
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:234:13-45
+	android:configChanges
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:233:13-48
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:232:13-62
+activity#org.odk.collect.android.activities.GeoTraceGoogleMapActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:235:9-238:48
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:238:13-45
+	android:configChanges
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:237:13-48
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:236:13-65
+activity#org.odk.collect.android.activities.BearingActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:239:9-241:48
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:241:13-45
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:240:13-55
+activity#org.odk.collect.android.activities.SplashScreenActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:242:9-251:20
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:244:13-45
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:243:13-60
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:245:13-250:29
+action#android.intent.action.MAIN
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:246:17-69
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:246:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:249:17-77
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:249:27-74
+activity#org.odk.collect.android.activities.AndroidShortcuts
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:253:9-262:20
+	android:label
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:255:13-37
+	android:theme
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:256:13-72
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:254:13-56
+intent-filter#android.intent.action.CREATE_SHORTCUT+android.intent.category.DEFAULT
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:257:13-261:29
+action#android.intent.action.CREATE_SHORTCUT
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:258:17-80
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:258:25-77
+receiver#org.odk.collect.android.receivers.NetworkReceiver
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:264:9-273:20
+	android:enabled
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:266:13-35
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:265:13-54
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:267:13-269:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:268:17-79
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:268:25-76
+intent-filter#org.odk.collect.android.FormSaved
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:270:13-272:29
+action#org.odk.collect.android.FormSaved
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:271:17-76
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:271:25-73
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:278:9-284:20
+	android:enabled
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:280:13-35
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:279:13-78
+intent-filter#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:281:13-283:29
+action#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:282:17-94
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:282:25-91
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:286:9-289:40
+	android:enabled
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:288:13-35
+	android:exported
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:289:13-37
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:287:13-77
+meta-data#com.google.android.geo.API_KEY
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:292:9-294:71
+	android:value
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:294:13-68
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:293:13-58
+meta-data#com.google.android.gms.version
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:295:9-298:45
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/soedomoto/.android/build-cache/455282c2b1635c4d5869a45ee198c902b1851b6c/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:297:13-66
+		REJECTED from [com.google.android.gms:play-services-basement:10.0.1] /home/soedomoto/.android/build-cache/455282c2b1635c4d5869a45ee198c902b1851b6c/output/AndroidManifest.xml:20:66-119
+	tools:replace
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:298:13-42
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:296:13-58
+uses-library#com.google.android.maps
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:300:9-302:40
+	android:required
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:302:13-37
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:301:13-51
+activity#org.odk.collect.android.collectiva.CollectivaLoginActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:304:9-72
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:304:19-69
+activity#org.odk.collect.android.collectiva.CollectivaMenuMainActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:305:9-75
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:305:19-72
+activity#org.odk.collect.android.activities.CollectivaListRespons
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:306:9-310:20
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:306:19-67
+meta-data#android.app.searchable
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:307:13-309:54
+	android:resource
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:309:17-51
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:308:17-54
+activity#org.odk.collect.android.collectiva.CollectivaPreferences
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:311:9-79
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:311:19-67
+activity#org.odk.collect.android.activities.PermissionActivity
+ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:312:9-76
+	android:name
+		ADDED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml:312:19-64
+uses-sdk
+INJECTED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] /home/soedomoto/.android/build-cache/88a0d6ff1bcda3079beb947838a7dd5dc6540227/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /home/soedomoto/.android/build-cache/469091c8a4aee07226e0b50c3be94c37cc46cda4/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] /home/soedomoto/.android/build-cache/fde7499ad3ca9389d27d3c7aa8e6830545ebac95/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/soedomoto/.android/build-cache/8e62b056414a3286494d493c54e4664b73faedba/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] /home/soedomoto/.android/build-cache/5599ea59ce82bce5d11ace6b01c751538cbed0fb/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] /home/soedomoto/.android/build-cache/d997f36f68008e5db3695b1c26c80bded2258205/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/soedomoto/.android/build-cache/21dc29b81bfb73d2d47e119e3ed831582561fdc3/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/soedomoto/.android/build-cache/d604e3d6deb4ecfef08cd63e1d1449c73024adb9/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] /home/soedomoto/.android/build-cache/280dbe2a6d104086ce5b7e666a7814ecf7771dd8/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /home/soedomoto/.android/build-cache/c653fc1b96150548cdf638fe871381ed00019005/output/AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/soedomoto/.android/build-cache/93c728e681b5416fddad5de39d70c79e19ea041f/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/soedomoto/.android/build-cache/01033c7b37993a95d4cec76e54e5700aea50f7cc/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/soedomoto/.android/build-cache/82ff39d0bc6e2b04893ffae31fa3ee0560a2d2bf/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/soedomoto/.android/build-cache/d6ea3ca061aa1c1e4dfbe87c192cde11d3ed71de/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/soedomoto/.android/build-cache/455282c2b1635c4d5869a45ee198c902b1851b6c/output/AndroidManifest.xml:17:5-42
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] /home/soedomoto/.android/build-cache/b2705ada5e083df8ecc6c4ed7aae03ee182a959e/output/AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:0.2.1] /home/soedomoto/.android/build-cache/0cb6a3ac452a892f3ff9d06b449de59c8c2c8767/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.jakewharton.timber:timber:4.5.1] /home/soedomoto/.android/build-cache/bcdefa36041f78b986ff8c7dc36f74572d65ff59/output/AndroidManifest.xml:6:5-43
+MERGED from [com.android.support:customtabs:25.3.1] /home/soedomoto/.android/build-cache/acfa381b0e95a6960a212317bd20f6e9881645d8/output/AndroidManifest.xml:20:5-44
+MERGED from [com.mikepenz:materialdrawer:5.9.1] /home/soedomoto/.android/build-cache/7680937324c1a264db36cab2335e74c0dc9b870f/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:materialize:1.0.1] /home/soedomoto/.android/build-cache/07f50300d6f804590f2bcf661ec344df968586ca/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:iconics-core:2.8.4] /home/soedomoto/.android/build-cache/bbd5e636d251f2ae2c73123229ae44d33c752f9d/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mikepenz:fastadapter:2.5.2] /home/soedomoto/.android/build-cache/fe6368b23b15b4c27d858b83f11aa2978e606003/output/AndroidManifest.xml:8:5-10:41
+MERGED from [collectiva-collect:slidingmenu:unspecified] /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/slidingmenu/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v13:25.3.1] /home/soedomoto/.android/build-cache/89f0f9d4a2014fdc7747818a02a1a8daf2e0cfc3/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:design:25.3.1] /home/soedomoto/.android/build-cache/55b65cf4fb0bc6be85eeb8eb0585f8db62e9b05c/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/soedomoto/.android/build-cache/fcba167a53f1a858ff6307e526402142e1f350ea/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/soedomoto/.android/build-cache/22081f42b247fadbeed1da463bf5c1df87b1f818/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/soedomoto/.android/build-cache/d18b769f0686a1ef577a692822cf5b5afe8d8dd7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/soedomoto/.android/build-cache/dac698495c2960d158623b85d6875e3fa8f79fce/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/soedomoto/.android/build-cache/cf4e082de360efd9eb7632db450fda68462d2af5/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/soedomoto/.android/build-cache/fec1bf1c1b758565bd8d581c653ca70c814a6a03/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/soedomoto/.android/build-cache/4801e7b1513013b5f6a4fc5de31b870cdf39a365/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/soedomoto/.android/build-cache/c8dfb1d7ef864b0b2f586dc6689f12ea8174218b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/soedomoto/.android/build-cache/75c958d3b24bd553b017cf3b7af6eda1e3466e46/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/soedomoto/.android/build-cache/d149645246e60319d7bc61b878aa0cfb40d85857/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/soedomoto/.android/build-cache/e548babba51b46d23ed56070b202dc8e50025d89/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/soedomoto/.android/build-cache/727cc3e555251156db2d2840e3da2983c06cb7a7/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.0.0] /home/soedomoto/.android/build-cache/4be4e0404e3bed137a8a4bb79fa15b51031d8cff/output/AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.1] /home/soedomoto/.android/build-cache/89f0f9d4a2014fdc7747818a02a1a8daf2e0cfc3/output/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml
+		INJECTED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml
+		INJECTED from /media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/soedomoto/.android/build-cache/5599ea59ce82bce5d11ace6b01c751538cbed0fb/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/soedomoto/.android/build-cache/5599ea59ce82bce5d11ace6b01c751538cbed0fb/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/soedomoto/.android/build-cache/5599ea59ce82bce5d11ace6b01c751538cbed0fb/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/soedomoto/.android/build-cache/5599ea59ce82bce5d11ace6b01c751538cbed0fb/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/soedomoto/.android/build-cache/5599ea59ce82bce5d11ace6b01c751538cbed0fb/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/soedomoto/.android/build-cache/5599ea59ce82bce5d11ace6b01c751538cbed0fb/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/soedomoto/.android/build-cache/5599ea59ce82bce5d11ace6b01c751538cbed0fb/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/soedomoto/.android/build-cache/5599ea59ce82bce5d11ace6b01c751538cbed0fb/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/soedomoto/.android/build-cache/5599ea59ce82bce5d11ace6b01c751538cbed0fb/output/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/soedomoto/.android/build-cache/d604e3d6deb4ecfef08cd63e1d1449c73024adb9/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/soedomoto/.android/build-cache/d604e3d6deb4ecfef08cd63e1d1449c73024adb9/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/soedomoto/.android/build-cache/d604e3d6deb4ecfef08cd63e1d1449c73024adb9/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/soedomoto/.android/build-cache/d604e3d6deb4ecfef08cd63e1d1449c73024adb9/output/AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/soedomoto/.android/build-cache/93c728e681b5416fddad5de39d70c79e19ea041f/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/soedomoto/.android/build-cache/01033c7b37993a95d4cec76e54e5700aea50f7cc/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/soedomoto/.android/build-cache/93c728e681b5416fddad5de39d70c79e19ea041f/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/soedomoto/.android/build-cache/93c728e681b5416fddad5de39d70c79e19ea041f/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/soedomoto/.android/build-cache/93c728e681b5416fddad5de39d70c79e19ea041f/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/soedomoto/.android/build-cache/93c728e681b5416fddad5de39d70c79e19ea041f/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/soedomoto/.android/build-cache/93c728e681b5416fddad5de39d70c79e19ea041f/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/soedomoto/.android/build-cache/93c728e681b5416fddad5de39d70c79e19ea041f/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/soedomoto/.android/build-cache/93c728e681b5416fddad5de39d70c79e19ea041f/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/soedomoto/.android/build-cache/93c728e681b5416fddad5de39d70c79e19ea041f/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/soedomoto/.android/build-cache/93c728e681b5416fddad5de39d70c79e19ea041f/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/soedomoto/.android/build-cache/93c728e681b5416fddad5de39d70c79e19ea041f/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/soedomoto/.android/build-cache/93c728e681b5416fddad5de39d70c79e19ea041f/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/soedomoto/.android/build-cache/01033c7b37993a95d4cec76e54e5700aea50f7cc/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/soedomoto/.android/build-cache/93c728e681b5416fddad5de39d70c79e19ea041f/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/soedomoto/.android/build-cache/93c728e681b5416fddad5de39d70c79e19ea041f/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/soedomoto/.android/build-cache/93c728e681b5416fddad5de39d70c79e19ea041f/output/AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/soedomoto/.android/build-cache/d9b19491eb7add69bb30c4585c6574fde2340ae5/output/AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] /home/soedomoto/.android/build-cache/82ff39d0bc6e2b04893ffae31fa3ee0560a2d2bf/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/soedomoto/.android/build-cache/82ff39d0bc6e2b04893ffae31fa3ee0560a2d2bf/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/soedomoto/.android/build-cache/82ff39d0bc6e2b04893ffae31fa3ee0560a2d2bf/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/soedomoto/.android/build-cache/82ff39d0bc6e2b04893ffae31fa3ee0560a2d2bf/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/soedomoto/.android/build-cache/82ff39d0bc6e2b04893ffae31fa3ee0560a2d2bf/output/AndroidManifest.xml:6:79-143
+meta-data#android.support.VERSION
+ADDED from [com.android.support:customtabs:25.3.1] /home/soedomoto/.android/build-cache/acfa381b0e95a6960a212317bd20f6e9881645d8/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v13:25.3.1] /home/soedomoto/.android/build-cache/89f0f9d4a2014fdc7747818a02a1a8daf2e0cfc3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:design:25.3.1] /home/soedomoto/.android/build-cache/55b65cf4fb0bc6be85eeb8eb0585f8db62e9b05c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/soedomoto/.android/build-cache/fcba167a53f1a858ff6307e526402142e1f350ea/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/soedomoto/.android/build-cache/22081f42b247fadbeed1da463bf5c1df87b1f818/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/soedomoto/.android/build-cache/d18b769f0686a1ef577a692822cf5b5afe8d8dd7/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/soedomoto/.android/build-cache/dac698495c2960d158623b85d6875e3fa8f79fce/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/soedomoto/.android/build-cache/cf4e082de360efd9eb7632db450fda68462d2af5/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/soedomoto/.android/build-cache/fec1bf1c1b758565bd8d581c653ca70c814a6a03/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/soedomoto/.android/build-cache/4801e7b1513013b5f6a4fc5de31b870cdf39a365/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/soedomoto/.android/build-cache/c8dfb1d7ef864b0b2f586dc6689f12ea8174218b/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/soedomoto/.android/build-cache/75c958d3b24bd553b017cf3b7af6eda1e3466e46/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/soedomoto/.android/build-cache/d149645246e60319d7bc61b878aa0cfb40d85857/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/soedomoto/.android/build-cache/e548babba51b46d23ed56070b202dc8e50025d89/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:customtabs:25.3.1] /home/soedomoto/.android/build-cache/acfa381b0e95a6960a212317bd20f6e9881645d8/output/AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:customtabs:25.3.1] /home/soedomoto/.android/build-cache/acfa381b0e95a6960a212317bd20f6e9881645d8/output/AndroidManifest.xml:23:9-47

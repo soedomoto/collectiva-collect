@@ -1,0 +1,4453 @@
+[
+    {
+        "outputFile": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 239,
+                        "startColumn": 2,
+                        "startOffset": 12743,
+                        "endColumn": 45,
+                        "endOffset": 12786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 48,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 102,
+                        "endColumn": 46,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 152,
+                    "endColumn": 53,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 2,
+                        "startOffset": 7151,
+                        "endColumn": 51,
+                        "endOffset": 7200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 39,
+                    "endOffset": 241
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 150,
+                        "endColumn": 37,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 246,
+                    "endColumn": 60,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 189,
+                        "endColumn": 58,
+                        "endOffset": 245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endColumn": 42,
+                    "endOffset": 345
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 249,
+                        "endColumn": 40,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 350,
+                    "endColumn": 59,
+                    "endOffset": 405
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 2,
+                        "startOffset": 291,
+                        "endColumn": 57,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 410,
+                    "endColumn": 41,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 2,
+                        "startOffset": 350,
+                        "endColumn": 39,
+                        "endOffset": 387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 50,
+                    "endOffset": 498
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 2,
+                        "startOffset": 391,
+                        "endColumn": 48,
+                        "endOffset": 437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 503,
+                    "endColumn": 45,
+                    "endOffset": 544
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 2,
+                        "startOffset": 441,
+                        "endColumn": 43,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 549,
+                    "endColumn": 87,
+                    "endOffset": 632
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 172,
+                        "startColumn": 2,
+                        "startOffset": 8817,
+                        "endColumn": 85,
+                        "endOffset": 8900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 637,
+                    "endColumn": 59,
+                    "endOffset": 692
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 2,
+                        "startOffset": 10521,
+                        "endColumn": 57,
+                        "endOffset": 10576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 697,
+                    "endColumn": 61,
+                    "endOffset": 754
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 2,
+                        "startOffset": 10790,
+                        "endColumn": 59,
+                        "endOffset": 10847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 759,
+                    "endColumn": 60,
+                    "endOffset": 815
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 2,
+                        "startOffset": 10851,
+                        "endColumn": 58,
+                        "endOffset": 10907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 820,
+                    "endColumn": 64,
+                    "endOffset": 880
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 2,
+                        "startOffset": 10974,
+                        "endColumn": 62,
+                        "endOffset": 11034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 885,
+                    "endColumn": 63,
+                    "endOffset": 944
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 2,
+                        "startOffset": 10911,
+                        "endColumn": 61,
+                        "endOffset": 10970
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 949,
+                    "endColumn": 51,
+                    "endOffset": 996
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 2,
+                        "startOffset": 10470,
+                        "endColumn": 49,
+                        "endOffset": 10517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1001,
+                    "endColumn": 39,
+                    "endOffset": 1036
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 2,
+                        "startOffset": 486,
+                        "endColumn": 37,
+                        "endOffset": 521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1041,
+                    "endColumn": 58,
+                    "endOffset": 1095
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 2,
+                        "startOffset": 6536,
+                        "endColumn": 56,
+                        "endOffset": 6590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1100,
+                    "endColumn": 52,
+                    "endOffset": 1148
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 2,
+                        "startOffset": 525,
+                        "endColumn": 50,
+                        "endOffset": 573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1153,
+                    "endColumn": 64,
+                    "endOffset": 1213
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 2,
+                        "startOffset": 577,
+                        "endColumn": 62,
+                        "endOffset": 637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1218,
+                    "endColumn": 41,
+                    "endOffset": 1255
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 210,
+                        "startColumn": 2,
+                        "startOffset": 11150,
+                        "endColumn": 39,
+                        "endOffset": 11187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1260,
+                    "endColumn": 53,
+                    "endOffset": 1309
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 2,
+                        "startOffset": 11306,
+                        "endColumn": 51,
+                        "endOffset": 11355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1314,
+                    "endColumn": 63,
+                    "endOffset": 1373
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 214,
+                        "startColumn": 2,
+                        "startOffset": 11359,
+                        "endColumn": 61,
+                        "endOffset": 11418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1378,
+                    "endColumn": 52,
+                    "endOffset": 1426
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 2,
+                        "startOffset": 11191,
+                        "endColumn": 50,
+                        "endOffset": 11239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1431,
+                    "endColumn": 63,
+                    "endOffset": 1490
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 212,
+                        "startColumn": 2,
+                        "startOffset": 11243,
+                        "endColumn": 61,
+                        "endOffset": 11302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1495,
+                    "endColumn": 59,
+                    "endOffset": 1550
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 2,
+                        "startOffset": 641,
+                        "endColumn": 57,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1555,
+                    "endColumn": 76,
+                    "endOffset": 1627
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 227,
+                        "startColumn": 2,
+                        "startOffset": 12049,
+                        "endColumn": 74,
+                        "endOffset": 12121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1632,
+                    "endColumn": 56,
+                    "endOffset": 1684
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 224,
+                        "startColumn": 2,
+                        "startOffset": 11861,
+                        "endColumn": 54,
+                        "endOffset": 11913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1689,
+                    "endColumn": 37,
+                    "endOffset": 1722
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 2,
+                        "startOffset": 700,
+                        "endColumn": 35,
+                        "endOffset": 733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1727,
+                    "endColumn": 50,
+                    "endOffset": 1773
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 2,
+                        "startOffset": 737,
+                        "endColumn": 48,
+                        "endOffset": 783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1778,
+                    "endColumn": 46,
+                    "endOffset": 1820
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 2,
+                        "startOffset": 787,
+                        "endColumn": 44,
+                        "endOffset": 829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1825,
+                    "endColumn": 44,
+                    "endOffset": 1865
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 833,
+                        "endColumn": 42,
+                        "endOffset": 873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1870,
+                    "endColumn": 44,
+                    "endOffset": 1910
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 877,
+                        "endColumn": 42,
+                        "endOffset": 917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1915,
+                    "endColumn": 46,
+                    "endOffset": 1957
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 921,
+                        "endColumn": 44,
+                        "endOffset": 963
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1962,
+                    "endColumn": 49,
+                    "endOffset": 2007
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 2,
+                        "startOffset": 7049,
+                        "endColumn": 47,
+                        "endOffset": 7094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2012,
+                    "endColumn": 68,
+                    "endOffset": 2076
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 2,
+                        "startOffset": 6686,
+                        "endColumn": 66,
+                        "endOffset": 6750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2081,
+                    "endColumn": 48,
+                    "endOffset": 2125
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 967,
+                        "endColumn": 46,
+                        "endOffset": 1011
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2130,
+                    "endColumn": 46,
+                    "endOffset": 2172
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 1015,
+                        "endColumn": 44,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2177,
+                    "endColumn": 49,
+                    "endOffset": 2222
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 2,
+                        "startOffset": 6796,
+                        "endColumn": 47,
+                        "endOffset": 6841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2227,
+                    "endColumn": 51,
+                    "endOffset": 2274
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 2,
+                        "startOffset": 10364,
+                        "endColumn": 49,
+                        "endOffset": 10411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2279,
+                    "endColumn": 51,
+                    "endOffset": 2326
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 2,
+                        "startOffset": 6439,
+                        "endColumn": 49,
+                        "endOffset": 6486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2331,
+                    "endColumn": 68,
+                    "endOffset": 2395
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 2,
+                        "startOffset": 6845,
+                        "endColumn": 66,
+                        "endOffset": 6909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2400,
+                    "endColumn": 47,
+                    "endOffset": 2443
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 1061,
+                        "endColumn": 45,
+                        "endOffset": 1104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2448,
+                    "endColumn": 55,
+                    "endOffset": 2499
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 2,
+                        "startOffset": 10415,
+                        "endColumn": 53,
+                        "endOffset": 10466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2504,
+                    "endColumn": 44,
+                    "endOffset": 2544
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 2,
+                        "startOffset": 8653,
+                        "endColumn": 42,
+                        "endOffset": 8693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2549,
+                    "endColumn": 45,
+                    "endOffset": 2590
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 2,
+                        "startOffset": 7950,
+                        "endColumn": 43,
+                        "endOffset": 7991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2595,
+                    "endColumn": 45,
+                    "endOffset": 2636
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 2,
+                        "startOffset": 7860,
+                        "endColumn": 43,
+                        "endOffset": 7901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2641,
+                    "endColumn": 45,
+                    "endOffset": 2682
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 2,
+                        "startOffset": 7905,
+                        "endColumn": 43,
+                        "endOffset": 7946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2687,
+                    "endColumn": 45,
+                    "endOffset": 2728
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 1170,
+                        "endColumn": 43,
+                        "endOffset": 1211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2733,
+                    "endColumn": 52,
+                    "endOffset": 2781
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 1215,
+                        "endColumn": 50,
+                        "endOffset": 1263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2786,
+                    "endColumn": 46,
+                    "endOffset": 2828
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1267,
+                        "endColumn": 44,
+                        "endOffset": 1309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2833,
+                    "endColumn": 62,
+                    "endOffset": 2891
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 1108,
+                        "endColumn": 60,
+                        "endOffset": 1166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2896,
+                    "endColumn": 68,
+                    "endOffset": 2960
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 2,
+                        "startOffset": 6023,
+                        "endColumn": 66,
+                        "endOffset": 6087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2965,
+                    "endColumn": 39,
+                    "endOffset": 3000
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 2,
+                        "startOffset": 6091,
+                        "endColumn": 37,
+                        "endOffset": 6126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3005,
+                    "endColumn": 49,
+                    "endOffset": 3050
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1313,
+                        "endColumn": 47,
+                        "endOffset": 1358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3055,
+                    "endColumn": 52,
+                    "endOffset": 3103
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 2,
+                        "startOffset": 12321,
+                        "endColumn": 50,
+                        "endOffset": 12369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3108,
+                    "endColumn": 68,
+                    "endOffset": 3172
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 233,
+                        "startColumn": 2,
+                        "startOffset": 12437,
+                        "endColumn": 66,
+                        "endOffset": 12501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3177,
+                    "endColumn": 64,
+                    "endOffset": 3237
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 232,
+                        "startColumn": 2,
+                        "startOffset": 12373,
+                        "endColumn": 62,
+                        "endOffset": 12433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3242,
+                    "endColumn": 39,
+                    "endOffset": 3277
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1362,
+                        "endColumn": 37,
+                        "endOffset": 1397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3282,
+                    "endColumn": 52,
+                    "endOffset": 3330
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1401,
+                        "endColumn": 50,
+                        "endOffset": 1449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3335,
+                    "endColumn": 50,
+                    "endOffset": 3381
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 2,
+                        "startOffset": 1453,
+                        "endColumn": 48,
+                        "endOffset": 1499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3386,
+                    "endColumn": 55,
+                    "endOffset": 3437
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 2,
+                        "startOffset": 1503,
+                        "endColumn": 53,
+                        "endOffset": 1554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3442,
+                    "endColumn": 64,
+                    "endOffset": 3502
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 2,
+                        "startOffset": 1558,
+                        "endColumn": 62,
+                        "endOffset": 1618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3507,
+                    "endColumn": 46,
+                    "endOffset": 3549
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 240,
+                        "startColumn": 2,
+                        "startOffset": 12790,
+                        "endColumn": 52,
+                        "endOffset": 12840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 3554,
+                    "endColumn": 55,
+                    "endOffset": 3605
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 2,
+                        "startOffset": 6279,
+                        "endColumn": 53,
+                        "endOffset": 6330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3610,
+                    "endColumn": 52,
+                    "endOffset": 3658
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 1622,
+                        "endColumn": 50,
+                        "endOffset": 1670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3663,
+                    "endColumn": 44,
+                    "endOffset": 3703
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 2,
+                        "startOffset": 1674,
+                        "endColumn": 42,
+                        "endOffset": 1714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3708,
+                    "endColumn": 41,
+                    "endOffset": 3745
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 2,
+                        "startOffset": 1718,
+                        "endColumn": 39,
+                        "endOffset": 1755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3750,
+                    "endColumn": 45,
+                    "endOffset": 3791
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 2,
+                        "startOffset": 1759,
+                        "endColumn": 43,
+                        "endOffset": 1800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 3796,
+                    "endColumn": 52,
+                    "endOffset": 3844
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 2,
+                        "startOffset": 1804,
+                        "endColumn": 50,
+                        "endOffset": 1852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 3849,
+                    "endColumn": 64,
+                    "endOffset": 3909
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 2,
+                        "startOffset": 1856,
+                        "endColumn": 62,
+                        "endOffset": 1916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 3914,
+                    "endColumn": 47,
+                    "endOffset": 3957
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 2,
+                        "startOffset": 1920,
+                        "endColumn": 45,
+                        "endOffset": 1963
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3962,
+                    "endColumn": 43,
+                    "endOffset": 4001
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 2,
+                        "startOffset": 1967,
+                        "endColumn": 41,
+                        "endOffset": 2006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 4006,
+                    "endColumn": 47,
+                    "endOffset": 4049
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 2,
+                        "startOffset": 2010,
+                        "endColumn": 45,
+                        "endOffset": 2053
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 4054,
+                    "endColumn": 45,
+                    "endOffset": 4095
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 2,
+                        "startOffset": 2057,
+                        "endColumn": 43,
+                        "endOffset": 2098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4100,
+                    "endColumn": 44,
+                    "endOffset": 4140
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 2,
+                        "startOffset": 2249,
+                        "endColumn": 42,
+                        "endOffset": 2289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 4145,
+                    "endColumn": 42,
+                    "endOffset": 4183
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 2,
+                        "startOffset": 2293,
+                        "endColumn": 40,
+                        "endOffset": 2331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 4188,
+                    "endColumn": 44,
+                    "endOffset": 4228
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 2,
+                        "startOffset": 2335,
+                        "endColumn": 42,
+                        "endOffset": 2375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 4233,
+                    "endColumn": 42,
+                    "endOffset": 4271
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 2,
+                        "startOffset": 2102,
+                        "endColumn": 40,
+                        "endOffset": 2140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 4276,
+                    "endColumn": 54,
+                    "endOffset": 4326
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 2,
+                        "startOffset": 2144,
+                        "endColumn": 52,
+                        "endOffset": 2194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 4331,
+                    "endColumn": 51,
+                    "endOffset": 4378
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 2,
+                        "startOffset": 2198,
+                        "endColumn": 49,
+                        "endOffset": 2245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4383,
+                    "endColumn": 43,
+                    "endOffset": 4422
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 2,
+                        "startOffset": 10055,
+                        "endColumn": 41,
+                        "endOffset": 10094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 4427,
+                    "endColumn": 44,
+                    "endOffset": 4467
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 2,
+                        "startOffset": 8181,
+                        "endColumn": 42,
+                        "endOffset": 8221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 4472,
+                    "endColumn": 56,
+                    "endOffset": 4524
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 2,
+                        "startOffset": 11038,
+                        "endColumn": 54,
+                        "endOffset": 11090
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 4529,
+                    "endColumn": 45,
+                    "endOffset": 4570
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 2,
+                        "startOffset": 2479,
+                        "endColumn": 43,
+                        "endOffset": 2520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 4575,
+                    "endColumn": 52,
+                    "endOffset": 4623
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 2,
+                        "startOffset": 2524,
+                        "endColumn": 50,
+                        "endOffset": 2572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 4628,
+                    "endColumn": 52,
+                    "endOffset": 4676
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 2,
+                        "startOffset": 10683,
+                        "endColumn": 50,
+                        "endOffset": 10731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 4681,
+                    "endColumn": 47,
+                    "endOffset": 4724
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 2,
+                        "startOffset": 2379,
+                        "endColumn": 45,
+                        "endOffset": 2422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4729,
+                    "endColumn": 53,
+                    "endOffset": 4778
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 2,
+                        "startOffset": 2426,
+                        "endColumn": 51,
+                        "endOffset": 2475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 4783,
+                    "endColumn": 44,
+                    "endOffset": 4823
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 2,
+                        "startOffset": 2576,
+                        "endColumn": 42,
+                        "endOffset": 2616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 4828,
+                    "endColumn": 60,
+                    "endOffset": 4884
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 2,
+                        "startOffset": 7661,
+                        "endColumn": 58,
+                        "endOffset": 7717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4889,
+                    "endColumn": 59,
+                    "endOffset": 4944
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 2,
+                        "startOffset": 2747,
+                        "endColumn": 57,
+                        "endOffset": 2802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 4949,
+                    "endColumn": 72,
+                    "endOffset": 5017
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 2,
+                        "startOffset": 2620,
+                        "endColumn": 70,
+                        "endOffset": 2688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 5022,
+                    "endColumn": 55,
+                    "endOffset": 5073
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 2,
+                        "startOffset": 2692,
+                        "endColumn": 53,
+                        "endOffset": 2743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 5078,
+                    "endColumn": 68,
+                    "endOffset": 5142
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 2,
+                        "startOffset": 7593,
+                        "endColumn": 66,
+                        "endOffset": 7657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 5147,
+                    "endColumn": 55,
+                    "endOffset": 5198
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 2,
+                        "startOffset": 2806,
+                        "endColumn": 53,
+                        "endOffset": 2857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 5203,
+                    "endColumn": 54,
+                    "endOffset": 5253
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 2,
+                        "startOffset": 2861,
+                        "endColumn": 52,
+                        "endOffset": 2911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 5258,
+                    "endColumn": 91,
+                    "endOffset": 5345
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 2,
+                        "startOffset": 9157,
+                        "endColumn": 89,
+                        "endOffset": 9244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 5350,
+                    "endColumn": 65,
+                    "endOffset": 5411
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 2,
+                        "startOffset": 2915,
+                        "endColumn": 63,
+                        "endOffset": 2976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 5416,
+                    "endColumn": 42,
+                    "endOffset": 5454
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 2,
+                        "startOffset": 7007,
+                        "endColumn": 40,
+                        "endOffset": 7045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 5459,
+                    "endColumn": 52,
+                    "endOffset": 5507
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 2,
+                        "startOffset": 8413,
+                        "endColumn": 50,
+                        "endOffset": 8461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 5512,
+                    "endColumn": 52,
+                    "endOffset": 5560
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 2,
+                        "startOffset": 8601,
+                        "endColumn": 50,
+                        "endOffset": 8649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 5565,
+                    "endColumn": 45,
+                    "endOffset": 5606
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 165,
+                        "startColumn": 2,
+                        "startOffset": 8465,
+                        "endColumn": 43,
+                        "endOffset": 8506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 5611,
+                    "endColumn": 46,
+                    "endOffset": 5653
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 2,
+                        "startOffset": 8510,
+                        "endColumn": 44,
+                        "endOffset": 8552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 5658,
+                    "endColumn": 45,
+                    "endOffset": 5699
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 2,
+                        "startOffset": 8556,
+                        "endColumn": 43,
+                        "endOffset": 8597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 5704,
+                    "endColumn": 45,
+                    "endOffset": 5745
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 221,
+                        "startColumn": 2,
+                        "startOffset": 11724,
+                        "endColumn": 43,
+                        "endOffset": 11765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 5750,
+                    "endColumn": 77,
+                    "endOffset": 5823
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 2,
+                        "startOffset": 7516,
+                        "endColumn": 75,
+                        "endOffset": 7589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 5828,
+                    "endColumn": 44,
+                    "endOffset": 5868
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 220,
+                        "startColumn": 2,
+                        "startOffset": 11680,
+                        "endColumn": 42,
+                        "endOffset": 11720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 5873,
+                    "endColumn": 53,
+                    "endOffset": 5922
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 2,
+                        "startOffset": 7098,
+                        "endColumn": 51,
+                        "endOffset": 7147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 5927,
+                    "endColumn": 47,
+                    "endOffset": 5970
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 2,
+                        "startOffset": 6913,
+                        "endColumn": 45,
+                        "endOffset": 6956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 5975,
+                    "endColumn": 37,
+                    "endOffset": 6008
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 2,
+                        "startOffset": 2980,
+                        "endColumn": 35,
+                        "endOffset": 3013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 6013,
+                    "endColumn": 54,
+                    "endOffset": 6063
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 2,
+                        "startOffset": 11531,
+                        "endColumn": 52,
+                        "endOffset": 11581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 6068,
+                    "endColumn": 53,
+                    "endOffset": 6117
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 2,
+                        "startOffset": 11422,
+                        "endColumn": 51,
+                        "endOffset": 11471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 6122,
+                    "endColumn": 56,
+                    "endOffset": 6174
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 2,
+                        "startOffset": 11094,
+                        "endColumn": 54,
+                        "endOffset": 11146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 6179,
+                    "endColumn": 56,
+                    "endOffset": 6231
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 2,
+                        "startOffset": 11475,
+                        "endColumn": 54,
+                        "endOffset": 11527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 6236,
+                    "endColumn": 50,
+                    "endOffset": 6282
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 2,
+                        "startOffset": 5973,
+                        "endColumn": 48,
+                        "endOffset": 6019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 6287,
+                    "endColumn": 45,
+                    "endOffset": 6328
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 2,
+                        "startOffset": 3068,
+                        "endColumn": 43,
+                        "endOffset": 3109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 6333,
+                    "endColumn": 44,
+                    "endOffset": 6373
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 236,
+                        "startColumn": 2,
+                        "startOffset": 12603,
+                        "endColumn": 42,
+                        "endOffset": 12643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 6378,
+                    "endColumn": 43,
+                    "endOffset": 6417
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 2,
+                        "startOffset": 3113,
+                        "endColumn": 41,
+                        "endOffset": 3152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 6422,
+                    "endColumn": 45,
+                    "endOffset": 6463
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 2,
+                        "startOffset": 3156,
+                        "endColumn": 43,
+                        "endOffset": 3197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 6468,
+                    "endColumn": 48,
+                    "endOffset": 6512
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 238,
+                        "startColumn": 2,
+                        "startOffset": 12695,
+                        "endColumn": 46,
+                        "endOffset": 12739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 6517,
+                    "endColumn": 51,
+                    "endOffset": 6564
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 2,
+                        "startOffset": 3017,
+                        "endColumn": 49,
+                        "endOffset": 3064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 6569,
+                    "endColumn": 47,
+                    "endOffset": 6612
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 2,
+                        "startOffset": 6639,
+                        "endColumn": 45,
+                        "endOffset": 6682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 6617,
+                    "endColumn": 54,
+                    "endOffset": 6667
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 2,
+                        "startOffset": 3261,
+                        "endColumn": 52,
+                        "endOffset": 3311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 6672,
+                    "endColumn": 48,
+                    "endOffset": 6716
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 2,
+                        "startOffset": 3315,
+                        "endColumn": 46,
+                        "endOffset": 3359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 6721,
+                    "endColumn": 42,
+                    "endOffset": 6759
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 2,
+                        "startOffset": 3363,
+                        "endColumn": 40,
+                        "endOffset": 3401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 6764,
+                    "endColumn": 47,
+                    "endOffset": 6807
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 2,
+                        "startOffset": 3405,
+                        "endColumn": 45,
+                        "endOffset": 3448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 6812,
+                    "endColumn": 45,
+                    "endOffset": 6853
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 2,
+                        "startOffset": 6594,
+                        "endColumn": 43,
+                        "endOffset": 6635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 6858,
+                    "endColumn": 39,
+                    "endOffset": 6893
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 2,
+                        "startOffset": 3452,
+                        "endColumn": 37,
+                        "endOffset": 3487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 6898,
+                    "endColumn": 41,
+                    "endOffset": 6935
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 2,
+                        "startOffset": 9720,
+                        "endColumn": 39,
+                        "endOffset": 9757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 6940,
+                    "endColumn": 48,
+                    "endOffset": 6984
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 229,
+                        "startColumn": 2,
+                        "startOffset": 12215,
+                        "endColumn": 46,
+                        "endOffset": 12259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 6989,
+                    "endColumn": 49,
+                    "endOffset": 7034
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 2,
+                        "startOffset": 3491,
+                        "endColumn": 47,
+                        "endOffset": 3536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 7039,
+                    "endColumn": 54,
+                    "endOffset": 7089
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 2,
+                        "startOffset": 3540,
+                        "endColumn": 52,
+                        "endOffset": 3590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 7094,
+                    "endColumn": 62,
+                    "endOffset": 7152
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 2,
+                        "startOffset": 3594,
+                        "endColumn": 60,
+                        "endOffset": 3652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 7157,
+                    "endColumn": 59,
+                    "endOffset": 7212
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 2,
+                        "startOffset": 3703,
+                        "endColumn": 57,
+                        "endOffset": 3758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 7217,
+                    "endColumn": 47,
+                    "endOffset": 7260
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 2,
+                        "startOffset": 3656,
+                        "endColumn": 45,
+                        "endOffset": 3699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 7265,
+                    "endColumn": 57,
+                    "endOffset": 7318
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 2,
+                        "startOffset": 3838,
+                        "endColumn": 55,
+                        "endOffset": 3891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 7323,
+                    "endColumn": 76,
+                    "endOffset": 7395
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 2,
+                        "startOffset": 3762,
+                        "endColumn": 74,
+                        "endOffset": 3834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 7400,
+                    "endColumn": 40,
+                    "endOffset": 7436
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 2,
+                        "startOffset": 3895,
+                        "endColumn": 38,
+                        "endOffset": 3931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 7441,
+                    "endColumn": 41,
+                    "endOffset": 7478
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 2,
+                        "startOffset": 3935,
+                        "endColumn": 39,
+                        "endOffset": 3972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 7483,
+                    "endColumn": 54,
+                    "endOffset": 7533
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 2,
+                        "startOffset": 3976,
+                        "endColumn": 52,
+                        "endOffset": 4026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 7538,
+                    "endColumn": 48,
+                    "endOffset": 7582
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 2,
+                        "startOffset": 4030,
+                        "endColumn": 46,
+                        "endOffset": 4074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 7587,
+                    "endColumn": 83,
+                    "endOffset": 7666
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 2,
+                        "startOffset": 7204,
+                        "endColumn": 81,
+                        "endOffset": 7283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 7671,
+                    "endColumn": 89,
+                    "endOffset": 7756
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 2,
+                        "startOffset": 7427,
+                        "endColumn": 87,
+                        "endOffset": 7512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 7761,
+                    "endColumn": 49,
+                    "endOffset": 7806
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 2,
+                        "startOffset": 4078,
+                        "endColumn": 47,
+                        "endOffset": 4123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 7811,
+                    "endColumn": 45,
+                    "endOffset": 7852
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 189,
+                        "startColumn": 2,
+                        "startOffset": 10010,
+                        "endColumn": 43,
+                        "endOffset": 10051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 7857,
+                    "endColumn": 41,
+                    "endOffset": 7894
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 222,
+                        "startColumn": 2,
+                        "startOffset": 11769,
+                        "endColumn": 39,
+                        "endOffset": 11806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 7899,
+                    "endColumn": 43,
+                    "endOffset": 7938
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 2,
+                        "startOffset": 11585,
+                        "endColumn": 41,
+                        "endOffset": 11624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 7943,
+                    "endColumn": 54,
+                    "endOffset": 7993
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 2,
+                        "startOffset": 9761,
+                        "endColumn": 52,
+                        "endOffset": 9811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 7998,
+                    "endColumn": 48,
+                    "endOffset": 8042
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 2,
+                        "startOffset": 4177,
+                        "endColumn": 46,
+                        "endOffset": 4221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 8047,
+                    "endColumn": 54,
+                    "endOffset": 8097
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 2,
+                        "startOffset": 7759,
+                        "endColumn": 52,
+                        "endOffset": 7809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 8102,
+                    "endColumn": 53,
+                    "endOffset": 8151
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 2,
+                        "startOffset": 4225,
+                        "endColumn": 51,
+                        "endOffset": 4274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 8156,
+                    "endColumn": 58,
+                    "endOffset": 8210
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 230,
+                        "startColumn": 2,
+                        "startOffset": 12263,
+                        "endColumn": 56,
+                        "endOffset": 12317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 8215,
+                    "endColumn": 50,
+                    "endOffset": 8261
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 2,
+                        "startOffset": 4127,
+                        "endColumn": 48,
+                        "endOffset": 4173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 8266,
+                    "endColumn": 32,
+                    "endOffset": 8294
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 2,
+                        "startOffset": 4278,
+                        "endColumn": 30,
+                        "endOffset": 4306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 8299,
+                    "endColumn": 42,
+                    "endOffset": 8337
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 235,
+                        "startColumn": 2,
+                        "startOffset": 12561,
+                        "endColumn": 40,
+                        "endOffset": 12599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 8342,
+                    "endColumn": 47,
+                    "endOffset": 8385
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 2,
+                        "startOffset": 4310,
+                        "endColumn": 45,
+                        "endOffset": 4353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 8390,
+                    "endColumn": 92,
+                    "endOffset": 8478
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 2,
+                        "startOffset": 4357,
+                        "endColumn": 90,
+                        "endOffset": 4445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 8483,
+                    "endColumn": 98,
+                    "endOffset": 8577
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 2,
+                        "startOffset": 4449,
+                        "endColumn": 96,
+                        "endOffset": 4543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 8582,
+                    "endColumn": 39,
+                    "endOffset": 8617
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 2,
+                        "startOffset": 4547,
+                        "endColumn": 37,
+                        "endOffset": 4582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 8622,
+                    "endColumn": 43,
+                    "endOffset": 8661
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 2,
+                        "startOffset": 4586,
+                        "endColumn": 41,
+                        "endOffset": 4625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 8666,
+                    "endColumn": 43,
+                    "endOffset": 8705
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 2,
+                        "startOffset": 4629,
+                        "endColumn": 41,
+                        "endOffset": 4668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 8710,
+                    "endColumn": 44,
+                    "endOffset": 8750
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 2,
+                        "startOffset": 4672,
+                        "endColumn": 42,
+                        "endOffset": 4712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 8755,
+                    "endColumn": 59,
+                    "endOffset": 8810
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 2,
+                        "startOffset": 4716,
+                        "endColumn": 57,
+                        "endOffset": 4771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 8815,
+                    "endColumn": 42,
+                    "endOffset": 8853
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 2,
+                        "startOffset": 6754,
+                        "endColumn": 40,
+                        "endOffset": 6792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 8858,
+                    "endColumn": 60,
+                    "endOffset": 8914
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 2,
+                        "startOffset": 3201,
+                        "endColumn": 58,
+                        "endOffset": 3257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 8919,
+                    "endColumn": 50,
+                    "endOffset": 8965
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 2,
+                        "startOffset": 4775,
+                        "endColumn": 48,
+                        "endOffset": 4821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 8970,
+                    "endColumn": 46,
+                    "endOffset": 9012
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 2,
+                        "startOffset": 4825,
+                        "endColumn": 44,
+                        "endOffset": 4867
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 9017,
+                    "endColumn": 38,
+                    "endOffset": 9051
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 2,
+                        "startOffset": 4871,
+                        "endColumn": 36,
+                        "endOffset": 4905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 9056,
+                    "endColumn": 49,
+                    "endOffset": 9101
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 2,
+                        "startOffset": 4909,
+                        "endColumn": 47,
+                        "endOffset": 4954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 9106,
+                    "endColumn": 48,
+                    "endOffset": 9150
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 237,
+                        "startColumn": 2,
+                        "startOffset": 12647,
+                        "endColumn": 46,
+                        "endOffset": 12691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 9155,
+                    "endColumn": 49,
+                    "endOffset": 9200
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 2,
+                        "startOffset": 4958,
+                        "endColumn": 47,
+                        "endOffset": 5003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 9205,
+                    "endColumn": 58,
+                    "endOffset": 9259
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 2,
+                        "startOffset": 5007,
+                        "endColumn": 56,
+                        "endOffset": 5061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 9264,
+                    "endColumn": 42,
+                    "endOffset": 9302
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 2,
+                        "startOffset": 10098,
+                        "endColumn": 40,
+                        "endOffset": 10136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 9307,
+                    "endColumn": 47,
+                    "endOffset": 9350
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 2,
+                        "startOffset": 5065,
+                        "endColumn": 45,
+                        "endOffset": 5108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 9355,
+                    "endColumn": 59,
+                    "endOffset": 9410
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 2,
+                        "startOffset": 5112,
+                        "endColumn": 57,
+                        "endOffset": 5167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 9415,
+                    "endColumn": 75,
+                    "endOffset": 9486
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 2,
+                        "startOffset": 7287,
+                        "endColumn": 76,
+                        "endOffset": 7361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 9491,
+                    "endColumn": 62,
+                    "endOffset": 9549
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 2,
+                        "startOffset": 7365,
+                        "endColumn": 60,
+                        "endOffset": 7423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 9554,
+                    "endColumn": 49,
+                    "endOffset": 9599
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 2,
+                        "startOffset": 5218,
+                        "endColumn": 47,
+                        "endOffset": 5263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 9604,
+                    "endColumn": 48,
+                    "endOffset": 9648
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 2,
+                        "startOffset": 9918,
+                        "endColumn": 46,
+                        "endOffset": 9962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 9653,
+                    "endColumn": 52,
+                    "endOffset": 9701
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 2,
+                        "startOffset": 8129,
+                        "endColumn": 50,
+                        "endOffset": 8177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 9706,
+                    "endColumn": 67,
+                    "endOffset": 9769
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 2,
+                        "startOffset": 5267,
+                        "endColumn": 65,
+                        "endOffset": 5330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 9774,
+                    "endColumn": 47,
+                    "endOffset": 9817
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 2,
+                        "startOffset": 8082,
+                        "endColumn": 45,
+                        "endOffset": 8125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 9822,
+                    "endColumn": 41,
+                    "endOffset": 9859
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 201,
+                        "startColumn": 2,
+                        "startOffset": 10642,
+                        "endColumn": 39,
+                        "endOffset": 10679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 9864,
+                    "endColumn": 52,
+                    "endOffset": 9912
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 2,
+                        "startOffset": 11628,
+                        "endColumn": 50,
+                        "endOffset": 11676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 9917,
+                    "endColumn": 47,
+                    "endOffset": 9960
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 2,
+                        "startOffset": 5171,
+                        "endColumn": 45,
+                        "endOffset": 5214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 9965,
+                    "endColumn": 87,
+                    "endOffset": 10048
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 2,
+                        "startOffset": 8987,
+                        "endColumn": 85,
+                        "endOffset": 9070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 10053,
+                    "endColumn": 58,
+                    "endOffset": 10107
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 2,
+                        "startOffset": 9860,
+                        "endColumn": 56,
+                        "endOffset": 9914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 10112,
+                    "endColumn": 46,
+                    "endOffset": 10154
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 2,
+                        "startOffset": 5334,
+                        "endColumn": 44,
+                        "endOffset": 5376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 10159,
+                    "endColumn": 55,
+                    "endOffset": 10210
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 2,
+                        "startOffset": 6334,
+                        "endColumn": 53,
+                        "endOffset": 6385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 10215,
+                    "endColumn": 46,
+                    "endOffset": 10257
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 2,
+                        "startOffset": 8036,
+                        "endColumn": 44,
+                        "endOffset": 8078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 10262,
+                    "endColumn": 55,
+                    "endOffset": 10313
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 193,
+                        "startColumn": 2,
+                        "startOffset": 10182,
+                        "endColumn": 53,
+                        "endOffset": 10233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 10318,
+                    "endColumn": 45,
+                    "endOffset": 10359
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 2,
+                        "startOffset": 9815,
+                        "endColumn": 43,
+                        "endOffset": 9856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 10364,
+                    "endColumn": 41,
+                    "endOffset": 10401
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 2,
+                        "startOffset": 7995,
+                        "endColumn": 39,
+                        "endOffset": 8032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 10406,
+                    "endColumn": 65,
+                    "endOffset": 10467
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 2,
+                        "startOffset": 8225,
+                        "endColumn": 63,
+                        "endOffset": 8286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 10472,
+                    "endColumn": 45,
+                    "endOffset": 10513
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 2,
+                        "startOffset": 5441,
+                        "endColumn": 43,
+                        "endOffset": 5482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 10518,
+                    "endColumn": 57,
+                    "endOffset": 10571
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 2,
+                        "startOffset": 5486,
+                        "endColumn": 55,
+                        "endOffset": 5539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 10576,
+                    "endColumn": 52,
+                    "endOffset": 10624
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 2,
+                        "startOffset": 5543,
+                        "endColumn": 50,
+                        "endOffset": 5591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 10629,
+                    "endColumn": 98,
+                    "endOffset": 10723
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 2,
+                        "startOffset": 9500,
+                        "endColumn": 96,
+                        "endOffset": 9594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 10728,
+                    "endColumn": 61,
+                    "endOffset": 10785
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 2,
+                        "startOffset": 5380,
+                        "endColumn": 59,
+                        "endOffset": 5437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 10790,
+                    "endColumn": 86,
+                    "endOffset": 10872
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 2,
+                        "startOffset": 9331,
+                        "endColumn": 84,
+                        "endOffset": 9413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 10877,
+                    "endColumn": 71,
+                    "endOffset": 10944
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 2,
+                        "startOffset": 8290,
+                        "endColumn": 69,
+                        "endOffset": 8357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 10949,
+                    "endColumn": 52,
+                    "endOffset": 10997
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 163,
+                        "startColumn": 2,
+                        "startOffset": 8361,
+                        "endColumn": 50,
+                        "endOffset": 8409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 11002,
+                    "endColumn": 52,
+                    "endOffset": 11050
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 2,
+                        "startOffset": 5695,
+                        "endColumn": 50,
+                        "endOffset": 5743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 11055,
+                    "endColumn": 58,
+                    "endOffset": 11109
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 2,
+                        "startOffset": 5595,
+                        "endColumn": 56,
+                        "endOffset": 5649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 11114,
+                    "endColumn": 42,
+                    "endOffset": 11152
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 2,
+                        "startOffset": 5653,
+                        "endColumn": 40,
+                        "endOffset": 5691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 11157,
+                    "endColumn": 42,
+                    "endOffset": 11195
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 2,
+                        "startOffset": 10140,
+                        "endColumn": 40,
+                        "endOffset": 10178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 11200,
+                    "endColumn": 46,
+                    "endOffset": 11242
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 2,
+                        "startOffset": 6490,
+                        "endColumn": 44,
+                        "endOffset": 6532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 11247,
+                    "endColumn": 66,
+                    "endOffset": 11309
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 170,
+                        "startColumn": 2,
+                        "startOffset": 8697,
+                        "endColumn": 64,
+                        "endOffset": 8759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 11314,
+                    "endColumn": 46,
+                    "endOffset": 11356
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 2,
+                        "startOffset": 6130,
+                        "endColumn": 44,
+                        "endOffset": 6172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 11361,
+                    "endColumn": 56,
+                    "endOffset": 11413
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 2,
+                        "startOffset": 6176,
+                        "endColumn": 54,
+                        "endOffset": 6228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 11418,
+                    "endColumn": 54,
+                    "endOffset": 11468
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 2,
+                        "startOffset": 8763,
+                        "endColumn": 52,
+                        "endOffset": 8813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 11473,
+                    "endColumn": 44,
+                    "endOffset": 11513
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 2,
+                        "startOffset": 9966,
+                        "endColumn": 42,
+                        "endOffset": 10006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 11518,
+                    "endColumn": 47,
+                    "endOffset": 11561
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 2,
+                        "startOffset": 6232,
+                        "endColumn": 45,
+                        "endOffset": 6275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 11566,
+                    "endColumn": 47,
+                    "endOffset": 11609
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 2,
+                        "startOffset": 6960,
+                        "endColumn": 45,
+                        "endOffset": 7003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 11614,
+                    "endColumn": 38,
+                    "endOffset": 11648
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 2,
+                        "startOffset": 7721,
+                        "endColumn": 36,
+                        "endOffset": 7755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 11653,
+                    "endColumn": 90,
+                    "endOffset": 11739
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 228,
+                        "startColumn": 2,
+                        "startOffset": 12125,
+                        "endColumn": 88,
+                        "endOffset": 12211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 11744,
+                    "endColumn": 60,
+                    "endOffset": 11800
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 225,
+                        "startColumn": 2,
+                        "startOffset": 11917,
+                        "endColumn": 58,
+                        "endOffset": 11973
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 11805,
+                    "endColumn": 72,
+                    "endOffset": 11873
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 226,
+                        "startColumn": 2,
+                        "startOffset": 11977,
+                        "endColumn": 70,
+                        "endOffset": 12045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 11878,
+                    "endColumn": 51,
+                    "endOffset": 11925
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 223,
+                        "startColumn": 2,
+                        "startOffset": 11810,
+                        "endColumn": 49,
+                        "endOffset": 11857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 11930,
+                    "endColumn": 44,
+                    "endOffset": 11970
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 2,
+                        "startOffset": 5747,
+                        "endColumn": 42,
+                        "endOffset": 5787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 11975,
+                    "endColumn": 47,
+                    "endOffset": 12018
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 2,
+                        "startOffset": 7813,
+                        "endColumn": 45,
+                        "endOffset": 7856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 12023,
+                    "endColumn": 49,
+                    "endOffset": 12068
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 2,
+                        "startOffset": 5791,
+                        "endColumn": 47,
+                        "endOffset": 5836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 12073,
+                    "endColumn": 46,
+                    "endOffset": 12115
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 2,
+                        "startOffset": 5840,
+                        "endColumn": 44,
+                        "endOffset": 5882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 12120,
+                    "endColumn": 50,
+                    "endOffset": 12166
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 2,
+                        "startOffset": 6389,
+                        "endColumn": 48,
+                        "endOffset": 6435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 12171,
+                    "endColumn": 62,
+                    "endOffset": 12229
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 2,
+                        "startOffset": 10580,
+                        "endColumn": 60,
+                        "endOffset": 10638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 12234,
+                    "endColumn": 62,
+                    "endOffset": 12292
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 2,
+                        "startOffset": 10237,
+                        "endColumn": 60,
+                        "endOffset": 10295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 12297,
+                    "endColumn": 65,
+                    "endOffset": 12358
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 195,
+                        "startColumn": 2,
+                        "startOffset": 10299,
+                        "endColumn": 63,
+                        "endOffset": 10360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 12363,
+                    "endColumn": 40,
+                    "endOffset": 12399
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 2,
+                        "startOffset": 5886,
+                        "endColumn": 38,
+                        "endOffset": 5922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 12404,
+                    "endColumn": 55,
+                    "endOffset": 12455
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 2,
+                        "startOffset": 10735,
+                        "endColumn": 53,
+                        "endOffset": 10786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 12460,
+                    "endColumn": 39,
+                    "endOffset": 12495
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 2,
+                        "startOffset": 9681,
+                        "endColumn": 37,
+                        "endOffset": 9716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 12500,
+                    "endColumn": 56,
+                    "endOffset": 12552
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 234,
+                        "startColumn": 2,
+                        "startOffset": 12505,
+                        "endColumn": 54,
+                        "endOffset": 12557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 12557,
+                    "endColumn": 47,
+                    "endOffset": 12600
+                },
+                "from": {
+                    "file": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 2,
+                        "startOffset": 5926,
+                        "endColumn": 45,
+                        "endOffset": 5969
+                    }
+                }
+            }
+        ]
+    }
+]

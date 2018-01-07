@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/build/intermediates/res/merged/debug/menu/menu_instance.xml",
+        "source": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/menu/menu_instance.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/build/intermediates/res/merged/debug/menu/menu_instance_option.xml",
+        "source": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/menu/menu_instance_option.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/build/intermediates/res/merged/debug/menu/menu_hierarchy_activity.xml",
+        "source": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/menu/menu_hierarchy_activity.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/build/intermediates/res/merged/debug/menu/menu_forms.xml",
+        "source": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/src/main/res/menu/menu_forms.xml"
+    }
+]

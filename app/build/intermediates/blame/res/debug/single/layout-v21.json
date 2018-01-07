@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/media/soedomoto/DATA/BPS/2017/Innovation/CAPI/Collectiva Modified/collectiva-collect/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/soedomoto/.android/build-cache/a9c479bea612db104755e0d803a1ecd59e42e238/output/res/layout-v21/notification_action.xml"
+    }
+]

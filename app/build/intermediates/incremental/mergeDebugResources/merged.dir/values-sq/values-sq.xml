@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accept_location">Regjistro vendndodhjen.</string>
+    <string name="accuracy">Saktësia</string>
+    <string name="activity_not_found">Nuk gjendet aktivitet për t\'u proçesuar: %s</string>
+    <string name="add_another">Shto një grup</string>
+    <string name="add_another_repeat">Shto një grup \"%s\"</string>
+    <string name="add_more">Shto edhe një tjetër</string>
+    <string name="add_repeat">Shto një grup tjetër \"%s\"?</string>
+    <string name="add_repeat_no">Mos shto</string>
+    <string name="advance">Përparo tek \nnext\nprompt</string>
+    <string name="altitude">Gjatësia</string>
+    <string name="audio_file_error">Audio file e specifikuar nuk gjendet</string>
+    <string name="audio_file_invalid">File: %s nuk është një audio file funksionale</string>
+    <string name="backup">Rikthehu tek \nprevious\nprompt</string>
+    <string name="barcode_scanner_error">Kujdes, skanuesi i barkodeve nuk është i instaluar</string>
+    <string name="cancel">Anullo</string>
+    <string name="cancel_loading_form">Anullo</string>
+    <string name="cancel_location">Anullo</string>
+    <string name="cannot_edit_completed_form">Ky formular nuk mund të editohet pasi është shënuar \'i plotësuar\'. Mund të jetë i enkriptuar.</string>
+    <string name="capture_audio">Regjistro audio</string>
+    <string name="capture_image">Bëj një foto</string>
+    <string name="clear_answer_no">Anullo</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Aktivizo"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nuk do të funksionojë nëse nuk aktivizon shërbimet e \"Luaj me Google\"."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Aktivizo shërbimet e \"Luaj me Google\""</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instalo"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nuk do të funksionojë pa shërbimet e Google Play, të cilat mungojnë në pajisjen tënde."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Merr shërbimet e \"Luaj me Google\""</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Gabim në shërbimet e \"Luaj me Google\""</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ka probleme me shërbimet e Google Play. Provo sërish."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nuk do të funksionojë pa shërbimet e Google Play, të cilat nuk mbështeten nga pajisja jote."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Përditëso"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nuk do të funksionojë nëse nuk përditëson shërbimet e \"Luaj me Google\"."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Përditëso shërbimet e \"Luaj me Google\""</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nuk do të funksionojë pa shërbimet e \"Luaj me Google\", të cilat po përditësohen aktualisht."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Nevojitet një version i ri i shërbimeve të \"Luaj me Google\". Ai do të përditësohet automatikisht së shpejti."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Hape në telefon"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Identifikohu"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Identifikohu me Google"</string>
+    <string name="default_google_sheets_url"/>
+    <string name="delete_repeat_no">Anullo</string>
+    <string name="do_not_change">Anullo</string>
+    <string name="do_not_exit">Anullo</string>
+    <string name="entering_repeat">Shto një grup</string>
+    <string name="get_location">Regjistro vendndodhjen.</string>
+    <string name="leave_repeat_yes">Mos shto</string>
+</resources>
